@@ -1,11 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { QuizApp } from "./components/QuizApp";
 import "./index.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { Portfolio } from "./components/Portfolio";
 
 ReactDOM.render(
-  <QuizApp />,
+  <Portfolio />,
 
   document.getElementById("root")
 );

@@ -9,7 +9,7 @@ import { Learn } from "./5_learn/Learn";
 import { Learn2 } from "./5_learn/Learn2";
 import { Questions } from "./6_accordion/Questions";
 
-export const QuizApp = () => {
+export const Portfolio = () => {
   return (
     <>
       <NavBar />
