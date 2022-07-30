@@ -22,7 +22,7 @@ export const IntroSection = () => {
               person. During my academic training I have stood out for my
               interest in technological development. Currently, I have knowledge
               in the domain of languages for frontend programming such as HTML,
-              CSS, JavaScript, React, Bootstrap, GIT, POO, Version control and
+              CSS, JavaScript, React, Bootstrap, Typescript, NextJs, GIT, POO, Version control and
               tools such as Visual Code, Figma.
             </p>
             <div className="text-center mt-5">
