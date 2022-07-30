@@ -4,7 +4,7 @@ export const Instructors = () => {
       <div className="container">
         <h2 className="text-white text-center">My projects</h2>
         <p className="lead text-white text-center">
-        Most of the projects below are either from University or independently made by me. This area will also be constantly updated with my most recent projects.
+        Most of the projects below are either from University or independently made by me. This area will also be constantly updating with my most recent projects.
         </p>
         <div className="row g-4 d-flex align-items-stretch">
           <div className="col-md-6 col-lg-3">
@@ -81,7 +81,7 @@ export const Instructors = () => {
                 />
                 <h3 className="card-title mb-3">Future projects...</h3>
                 <p className="card-text lead">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nobis harum quia. Dolorum nulla maxime sint animi cupiditate enim a dignissimos possimus illum. Laborum, doloremque.
+                Here I will update my biggest project made with MaterialUI, NextJS, Typescript, and more..
                 </p>
                 <a href="/" className="bi bi-twitter" />
                 <a href="/" className="bi bi-linkedin p-5" />
